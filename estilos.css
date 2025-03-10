@@ -1,0 +1,16 @@
+h2 {
+    padding-left: 25px;
+}
+
+h3 {
+    padding-left: 50px;
+}
+
+h4 {
+    padding-left: 75px;
+}
+
+.parrafos p {
+    border-style: solid;
+    border-color: gray;
+}
